@@ -17,12 +17,12 @@ Cependant, elle peut apporter de nouvelle stats pour des équipements qu'elle ne
 *Exemple*:
 *Gem of the Warlord* est trouvable en cracked, chipped, flawed, etc...
 
-![Différentes rareté de la Gem of the Warlord](assets\image.png)
+![Différentes rareté de la Gem of the Warlord](assets/image.png)
 
 Elle augemente toujours les même statistiques.
 
-![Bonus de la cracked](assets\image-1.png)
-![Bonus de la perfect](assets\image-2.png)
+![Bonus de la cracked](assets/image-1.png)
+![Bonus de la perfect](assets/image-2.png)
 
 ## Augmenter la rareté d'une gemme
 
@@ -32,12 +32,12 @@ Pour obtenir de la *gem dust*, il faut passer soit par la *salvaging table* ou e
 
 Obtenir de la *gem dust* revient donc à sacrifier une gemme. Plus la gemme sacrifié est rare, plus il y aura de *gem dust* en sortie (valable uniquement avec la *salvaging table*)
 
-![Craft de salvaging table](assets\image-4.png)
+![Craft de salvaging table](assets/image-4.png)
 
 ### Fonctionnement
 Il est possible d'augmenter le niveau d'une gemme grâce à une *gem cutting table*. 
 
-![Craft de la gem cutting table](assets\image-3.png)
+![Craft de la gem cutting table](assets/image-3.png)
 
 Pour augmenter une gemme, il faut sacrifier la même gemme que celle désiré. Il faut également de la *gem dust* et un **item de la rareté souhaité**.
 
@@ -48,8 +48,8 @@ Il existe un item pour augmenter dans chaque rareté (sauf pour perfect) :
 - Arcane Sands (epic)
 - Godforged pearl (legendary)
 
-![Item de rareté](assets\image-5.png)
+![Item de rareté](assets/image-5.png)
 
 Ainsi, une augmentation de gemme (vers epic) ressemble à ceci:
  
-![Exemple d'augementation](assets\image-6.png)
+![Exemple d'augementation](assets/image-6.png)
