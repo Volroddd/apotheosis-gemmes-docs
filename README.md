@@ -53,3 +53,11 @@ Il existe un item pour augmenter dans chaque rareté (sauf pour perfect) :
 Ainsi, une augmentation de gemme (vers epic) ressemble à ceci:
  
 ![Exemple d'augementation](assets/image-6.png)
+
+## Extraire des gemmes équipé
+
+Il est possible de créer des sigils, le *sigil of Withdrawal* permet de retirer **toutes** les gemmes équipé sur un item. 
+
+![alt text](assets/image-7.png)
+
+Une fois craft, suffit d'utiliser une *smithing table* avec l'item en question et le sigil. L'item et toutes les gemmes seront alors retourné au joueur.
